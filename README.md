@@ -26,4 +26,4 @@ Instruções:
 Este código é destinado apenas para fins educacionais, não use em ambientes ou sistemas que você não tenha permisão para testar.
 
 <h6>Disclaimer</h6>
-O autor não se responsabiliza por quaquer uso indevido ou ilegal do código fornecido.
+O autor não se responsabiliza por qualquer uso indevido ou ilegal do código fornecido.
